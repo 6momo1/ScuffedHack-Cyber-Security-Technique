@@ -1,0 +1,41 @@
+img {
+  width: 700px;
+  height: 400px;
+}
+.btn {
+  color: rgb(66, 138, 167);
+}
+.main {
+  border: 1px solid black;
+}
+
+.column {
+  float: left;
+}
+
+.left,
+.right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+.img-container {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+#banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  text-align: center;
+}
